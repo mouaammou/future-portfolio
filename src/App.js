@@ -2,8 +2,6 @@ import { Footer, Blog, Possibility, Features, WhatGpt3, Header } from './contain
 import {Brand, Cta, Navbar} from './components';
 import './App.css'
 
-
-
 function App() {
   return (
     <div className='App'>
