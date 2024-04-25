@@ -7,5 +7,5 @@ const Feature = () => {
         </div>
     );
 }
- 
+
 export default Feature;
